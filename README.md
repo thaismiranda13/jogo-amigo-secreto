@@ -9,6 +9,9 @@ Projeto em desenvolvimento para a formação Iniciante em Programação G8 - ONE
 O jogo do amigo secreto sorteia um amigo aleatório de uma lista de nomes.
 </p>
 
+![image](https://github.com/user-attachments/assets/9338e369-c330-4f4e-9763-042890702df0)
+
+
 # :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Adiciona os nomes dos seus amigos a uma lista.
